@@ -4,6 +4,13 @@
 
 The Unified Cloud Framework (UCF) is a Python-based system designed to integrate various cloud services into a single, cohesive platform. It aims to provide seamless interoperability, data exchange, and management capabilities across different cloud environments like AWS, Azure, Google Cloud, and others.
 
+## Features
+- **Unified Cloud Management**: Integrate services from AWS, Azure, Google Cloud, etc.
+- **Multi-Language Support**: Bindings available for Python, JavaScript, Java, and more.
+- **High Performance**: Rust backend ensures speed and reliability.
+- **Security and Compliance**: Adheres to industry-standard security protocols.
+- **Establish your own private cloud**: Establish your own private cloud with minimal setup using widely known protocols
+
 #### Description: What is it?
 The Unified Cloud Framework (UCF) is a framework-based system designed to integrate various cloud services into a single, cohesive platform. It aims to provide seamless interoperability, data exchange, and management capabilities across different cloud environments like AWS, Azure, Google Cloud, and others.
 
