@@ -2,17 +2,7 @@
 
 # Cloud-Of-Clouds
 
-The Unified Cloud Framework (UCF) is a Python-based system designed to integrate various cloud services into a single, cohesive platform. It aims to provide seamless interoperability, data exchange, and management capabilities across different cloud environments like AWS, Azure, Google Cloud, and others.
-
-## Features
-- **Unified Cloud Management**: Integrate services from AWS, Azure, Google Cloud, etc.
-- **Multi-Language Support**: Bindings available for Python, JavaScript, Java, and more.
-- **High Performance**: Rust backend ensures speed and reliability.
-- **Security and Compliance**: Adheres to industry-standard security protocols.
-- **Establish your own private cloud**: Establish your own private cloud with minimal setup using widely known protocols
-
-#### Description: What is it?
-The Unified Cloud Framework (UCF) is a framework-based system designed to integrate various cloud services into a single, cohesive platform. It aims to provide seamless interoperability, data exchange, and management capabilities across different cloud environments like AWS, Azure, Google Cloud, and others.
+The Unified Cloud Framework (UCF) is a framework designed to integrate various cloud services into a single, cohesive platform. It aims to provide seamless interoperability, data exchange, and management capabilities across different cloud environments like AWS, Azure, Google Cloud, and others.
 
 #### Problem: What problem is this solving?
 UCF addresses the complexity and inefficiency arising from using multiple cloud services. Organizations often struggle with disparate systems leading to increased costs, technical challenges in integration, and data silos. UCF simplifies cloud management, reduces operational overhead, and enhances productivity.
@@ -31,6 +21,14 @@ UCF will offer a unified dashboard for managing different cloud services, a set 
 
 #### How: What is the experiment plan?
 The initial phase involves creating a prototype to demonstrate basic integration between two major cloud services. Following feedback, we will expand to include more services and functionalities. Beta testing with select organizations will help refine features and user experience.
+
+
+## Features
+- **Unified Cloud Management**: Integrate services from AWS, Azure, Google Cloud, etc.
+- **Multi-Language Support**: Bindings available for Python, JavaScript, Java, and more.
+- **High Performance**: Rust backend ensures speed and reliability.
+- **Security and Compliance**: Adheres to industry-standard security protocols.
+- **Establish your own private cloud**: Establish your own private cloud with minimal setup using widely known protocols
 
 #### When: When does it ship and what are the milestones?
 - **Q1 2024:** Project initiation, team assembly, and initial research.
